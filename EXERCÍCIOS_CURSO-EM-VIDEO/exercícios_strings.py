@@ -1,0 +1,7 @@
+nome=str('Jefferson D. Rego').strip()
+print (nome)
+print (nome.upper())
+print (nome.lower())
+print (len(nome)-nome.count(' '))
+print (len(nome))
+print (nome.find(' '))
