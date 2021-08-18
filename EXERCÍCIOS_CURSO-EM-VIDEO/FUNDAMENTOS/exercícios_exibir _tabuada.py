@@ -11,3 +11,4 @@ while a<10:
     a=a+1
     print (f'{x} X {a} = {x*a}')
     
+
