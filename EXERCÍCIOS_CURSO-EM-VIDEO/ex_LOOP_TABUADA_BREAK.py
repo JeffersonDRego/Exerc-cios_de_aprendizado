@@ -1,7 +1,7 @@
-print('*'*50)
-print('PROGRAMA DE TABUADA TABAJARArinha CORPORATION')
-print('*'*50)
 '''while True:
+    print('*'*50)
+    print('PROGRAMA DE TABUADA TABAJARArinha CORPORATION')
+    print('*'*50)
     n=int(input('DIGITE UM VALOR PARA SABER A TABUADA.\n(negativo para parar).\n'))
     if n<0:
         break
@@ -16,6 +16,9 @@ print('*'*50)
 print('PROGRAMA ENCERRADO VOLTE SEMPRE')'''
 
 while True:
+    print('*'*50)
+    print('PROGRAMA DE TABUADA TABAJARArinha CORPORATION')
+    print('*'*50)
     n=int(input('Digite um valor.\n'))
     if n<0:
         print('acabou')
