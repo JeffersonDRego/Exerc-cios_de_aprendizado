@@ -7,6 +7,6 @@ jogadores={'JOGADOR1': randint(1,6),
             'JOGADOR4':randint(1,6)}
 for v in jogadores.keys():
     if jogadores[v]>1:
-        print('VENCEEEU')
+        print(f'')
 
 print (jogadores)
